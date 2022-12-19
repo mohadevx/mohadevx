@@ -1,4 +1,5 @@
-## Hello World !:wave:
+# Hello World !:wave:
 
 - My name is Mohamed Ibrahem :octopus:
-- Passionate abt Web/App Development, 3D Rendering :ocean:
+- Passionate abt Web/App Development, CGI :ocean:
+- I can make a cube in Blender
