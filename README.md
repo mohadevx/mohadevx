@@ -9,5 +9,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{mohadevx}/count.svg)
 
 ## Contact
-- **[Email Address](mohamedibrahem101@zohomail.com)**
+- Email me on **[mohamedibrahem101@zohomail.com](mohamedibrahem101@zohomail.com)**
 - Find me on **[Discord](https://discord.com/users/mohadevx)**
