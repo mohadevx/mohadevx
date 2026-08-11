@@ -6,6 +6,8 @@
 \
 Linux • Windows • Open Source • Backend • Frontend • DevOps • AI
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=abutalebco&theme=github-compact&hide_border=true&area=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ```text
