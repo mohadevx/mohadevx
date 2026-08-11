@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed
+# 👋 Hi, I'm Mohamed Abutaleb
 
 **Computer Science & Statistics Student**
 \
@@ -14,7 +14,7 @@ abutalebco@github
 
 OS:              Windows 10 with Ubuntu WSL
 Editor:          VS Code, Zed, Neovim, Sublime Text
-Terminal:        Cmdr, Windows Terminal
+Terminal:        WezTerm, Cmder, Windows Terminal
 Shell:           PowerShell, cmd.exe, bash
 Languages:       TypeScript, Go, Python, Rust, JavaScript
 Frontend:        React, Vite, Tailwind CSS
